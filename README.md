@@ -1,0 +1,1 @@
+This project is a robust, full-stack user authentication system built with a Node.js, Express, and MongoDB backend and a client-side HTML, CSS, and JavaScript frontend. The application provides a secure and reliable way for users to register, log in, and manage their passwords, incorporating best practices for web security and user experience.
